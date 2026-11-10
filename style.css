@@ -1,0 +1,27 @@
+
+h1{color: brown;}
+section h2{color: brown;
+text-align: center;}
+section p{background-color: rgb(247, 149, 149);
+text-align: left;}
+div{text-align: center;
+    margin: 0px auto;
+    border: 5px solid rgb(243, 238, 233);
+    width: 500px;
+    padding: 10px;
+    box-shadow: 0 2px 12px;
+}
+img{border-radius: 20px;
+    width: 400px;
+}
+.ss {text-align: left;}
+.btn{
+    
+    display: inline-block;
+    background-color: brown;
+    text-decoration: none;
+    padding: 12px 25px;
+    margin-top: 15px;
+    border-radius: 8px;
+}
+ 
